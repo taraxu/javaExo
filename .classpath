@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algo/src"/>
+	<classpathentry kind="src" path="Animaux/src"/>
+	<classpathentry kind="src" path="Banque/src"/>
+	<classpathentry kind="src" path="Crible d’Erathostène/src"/>
+	<classpathentry kind="src" path="Exception/src"/>
+	<classpathentry kind="src" path="Interface/src"/>
+	<classpathentry kind="src" path="Palindrome/src"/>
+	<classpathentry kind="src" path="prix des billets d’autocar/src"/>
+	<classpathentry kind="src" path="Simplex/src"/>
+	<classpathentry kind="output" path="Algo/bin"/>
+</classpath>
